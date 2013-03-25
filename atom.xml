@@ -4,7 +4,7 @@
   <title><![CDATA[Dong Guo's Blog]]></title>
   <link href="http://guod08.github.com/me/atom.xml" rel="self"/>
   <link href="http://guod08.github.com/me/"/>
-  <updated>2013-03-25T09:23:06-07:00</updated>
+  <updated>2013-03-25T09:28:47-07:00</updated>
   <id>http://guod08.github.com/me/</id>
   <author>
     <name><![CDATA[Dong Guo]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[lift in beijing]]></title>
+    <link href="http://guod08.github.com/me/blog/2013/03/25/lift-in-beijing/"/>
+    <updated>2013-03-25T09:28:00-07:00</updated>
+    <id>http://guod08.github.com/me/blog/2013/03/25/lift-in-beijing</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Traveling in Taiwan]]></title>
