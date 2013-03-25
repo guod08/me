@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: learning | Dong Guo's Blog]]></title>
-  <link href="http://guod08.github.com/me/blog/categories/learning/atom.xml" rel="self"/>
+  <title><![CDATA[Category: machine learning | Dong Guo's Blog]]></title>
+  <link href="http://guod08.github.com/me/blog/categories/machine-learning/atom.xml" rel="self"/>
   <link href="http://guod08.github.com/me/"/>
-  <updated>2013-03-25T09:09:06-07:00</updated>
+  <updated>2013-03-25T09:13:03-07:00</updated>
   <id>http://guod08.github.com/me/</id>
   <author>
     <name><![CDATA[Dong Guo]]></name>
