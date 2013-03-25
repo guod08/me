@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: personal | Dong Guo's Blog]]></title>
-  <link href="http://guod08.github.com/me/blog/categories/personal/atom.xml" rel="self"/>
+  <title><![CDATA[Category: traveling | Dong Guo's Blog]]></title>
+  <link href="http://guod08.github.com/me/blog/categories/traveling/atom.xml" rel="self"/>
   <link href="http://guod08.github.com/me/"/>
   <updated>2013-03-25T09:23:06-07:00</updated>
   <id>http://guod08.github.com/me/</id>
@@ -19,15 +19,6 @@
     <updated>2013-03-25T09:22:00-07:00</updated>
     <id>http://guod08.github.com/me/blog/2013/03/25/traveling-in-taiwan</id>
     <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Introduction to logistic regression]]></title>
-    <link href="http://guod08.github.com/me/blog/2013/03/24/introduction-to-logistic-regression/"/>
-    <updated>2013-03-24T01:13:00-07:00</updated>
-    <id>http://guod08.github.com/me/blog/2013/03/24/introduction-to-logistic-regression</id>
-    <content type="html"><![CDATA[<p>to be written</p>
 ]]></content>
   </entry>
   
