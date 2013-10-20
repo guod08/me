@@ -4,7 +4,7 @@
   <title><![CDATA[Dong's Blog]]></title>
   <link href="http://guod08.github.io/me//atom.xml" rel="self"/>
   <link href="http://guod08.github.io/me//"/>
-  <updated>2013-10-20T14:01:23+08:00</updated>
+  <updated>2013-10-20T14:09:43+08:00</updated>
   <id>http://guod08.github.io/me//</id>
   <author>
     <name><![CDATA[Dong Guo]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[中文支持]]></title>
+    <link href="http://guod08.github.io/me//blog/2013/10/20/zhong-wen-zhi-chi/"/>
+    <updated>2013-10-20T14:08:00+08:00</updated>
+    <id>http://guod08.github.io/me//blog/2013/10/20/zhong-wen-zhi-chi</id>
+    <content type="html"><![CDATA[<p>今天天气不错</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[good weekend]]></title>
