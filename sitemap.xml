@@ -1,33 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>
-            http://guod08.github.com/me/blog/2013/03/24/introduction-to-logistic-regression/
-        </loc>
-        <lastmod>2013-03-25T09:13:57-07:00</lastmod>
+        <loc>http://guod08.github.io//github/blog/archives/</loc>
+        <lastmod>2013-10-20T11:47:35+08:00</lastmod>
     </url>
     <url>
-        <loc>http://guod08.github.com/me/blog/2013/03/25/parallelize-logistic-regression/</loc>
-        <lastmod>2013-03-25T09:12:56-07:00</lastmod>
+        <loc>http://guod08.github.io//github/</loc>
+        <lastmod>2013-10-20T11:47:35+08:00</lastmod>
     </url>
     <url>
-        <loc>http://guod08.github.com/me/blog/2013/03/25/traveling-in-taiwan/</loc>
-        <lastmod>2013-03-25T09:22:55-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://guod08.github.com/me/blog/2013/03/25/lift-in-beijing/</loc>
-        <lastmod>2013-03-25T09:28:36-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://guod08.github.com/me/blog/archives/</loc>
-        <lastmod>2013-03-25T09:28:36-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://guod08.github.com/me/</loc>
-        <lastmod>2013-03-25T09:28:36-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://guod08.github.com/me/robots.txt</loc>
-        <lastmod>2013-03-23T22:51:11-07:00</lastmod>
+        <loc>http://guod08.github.io//github/robots.txt</loc>
+        <lastmod>2013-10-20T11:47:35+08:00</lastmod>
     </url>
 </urlset>
