@@ -1,24 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://guod08.github.io/me//blog/2013/10/20/weekend/</loc>
-        <lastmod>2013-10-20T13:28:58+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://guod08.github.io/me//blog/2013/10/20/zhong-wen-zhi-chi/</loc>
-        <lastmod>2013-10-20T14:09:29+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://guod08.github.io/me//blog/2013/10/20/pic-code/</loc>
-        <lastmod>2013-10-20T20:38:04+08:00</lastmod>
+        <loc>http://guod08.github.io/me//blog/2013/10/20/shi-jian-guan-li/</loc>
+        <lastmod>2013-10-20T21:03:59+08:00</lastmod>
     </url>
     <url>
         <loc>http://guod08.github.io/me//blog/archives/</loc>
-        <lastmod>2013-10-20T20:38:04+08:00</lastmod>
+        <lastmod>2013-10-20T21:03:59+08:00</lastmod>
     </url>
     <url>
         <loc>http://guod08.github.io/me//</loc>
-        <lastmod>2013-10-20T20:38:04+08:00</lastmod>
+        <lastmod>2013-10-20T21:03:59+08:00</lastmod>
     </url>
     <url>
         <loc>http://guod08.github.io/me//robots.txt</loc>

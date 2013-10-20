@@ -4,7 +4,7 @@
   <title><![CDATA[Dong's Blog]]></title>
   <link href="http://guod08.github.io/me//atom.xml" rel="self"/>
   <link href="http://guod08.github.io/me//"/>
-  <updated>2013-10-20T20:38:18+08:00</updated>
+  <updated>2013-10-20T21:04:26+08:00</updated>
   <id>http://guod08.github.io/me//</id>
   <author>
     <name><![CDATA[Dong Guo]]></name>
@@ -14,30 +14,16 @@
 
   
   <entry>
-    <title type="html"><![CDATA[pic_code]]></title>
-    <link href="http://guod08.github.io/me//blog/2013/10/20/pic-code/"/>
-    <updated>2013-10-20T20:35:00+08:00</updated>
-    <id>http://guod08.github.io/me//blog/2013/10/20/pic-code</id>
-    <content type="html"><![CDATA[<p><img class="right" src="http://placekitten.com/300/500" width="150" height="250" title="Place Kitten #4" alt="An image of a very cute kitten"></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[中文支持]]></title>
-    <link href="http://guod08.github.io/me//blog/2013/10/20/zhong-wen-zhi-chi/"/>
-    <updated>2013-10-20T14:08:00+08:00</updated>
-    <id>http://guod08.github.io/me//blog/2013/10/20/zhong-wen-zhi-chi</id>
-    <content type="html"><![CDATA[<p>今天天气不错</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[good weekend]]></title>
-    <link href="http://guod08.github.io/me//blog/2013/10/20/weekend/"/>
-    <updated>2013-10-20T13:22:00+08:00</updated>
-    <id>http://guod08.github.io/me//blog/2013/10/20/weekend</id>
-    <content type="html"><![CDATA[<p>content
-hello dong</p>
+    <title type="html"><![CDATA[时间管理]]></title>
+    <link href="http://guod08.github.io/me//blog/2013/10/20/shi-jian-guan-li/"/>
+    <updated>2013-10-20T20:53:00+08:00</updated>
+    <id>http://guod08.github.io/me//blog/2013/10/20/shi-jian-guan-li</id>
+    <content type="html"><![CDATA[<p>工作2年半了，自己在时间规划管理、平衡工作/学习/生活三者方面积累了一些经验。主要包括如下几点：
+1. 意识到除了要把工作很好地完成，个人学习成长也同等重要；
+2. 会提前给未来一周的工作学习做计划，每天一早到公司会制定小时级别的工作计划，每个小时结束会填写反馈；
+3. 发现自己上午的效率比较高，从刚工作时10点到公司调整成9点前到公司；</p>
+
+<p>周末简单读了一本书《小强升职记》，又有了一些新的收获，写在这边做个总结。</p>
 ]]></content>
   </entry>
   
