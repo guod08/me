@@ -4,7 +4,7 @@
   <title><![CDATA[Dong's Blog]]></title>
   <link href="http://guod08.github.io/me//atom.xml" rel="self"/>
   <link href="http://guod08.github.io/me//"/>
-  <updated>2013-12-01T22:53:23+08:00</updated>
+  <updated>2013-12-01T23:28:38+08:00</updated>
   <id>http://guod08.github.io/me//</id>
   <author>
     <name><![CDATA[Dong Guo]]></name>
@@ -23,7 +23,7 @@ hello</p>
 
 <p>hello</p>
 
-<p><img src="images/bird_32_gray.png">
+<p><img src="../images/bird_32_gray.png">
 <img class="left" src="http://placekitten.com/320/250" title="Place Kitten #2" >
 <img class="right" src="http://placekitten.com/300/500" width="150" height="250" title="Place Kitten #3" >
 <img class="right" src="http://placekitten.com/300/500" width="150" height="250" title="Place Kitten #4" alt="An image of a very cute kitten"></p>
