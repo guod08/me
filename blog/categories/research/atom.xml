@@ -4,7 +4,7 @@
   <title><![CDATA[Category: research | Dong's Blog]]></title>
   <link href="http://guod08.github.io/me//blog/categories/research/atom.xml" rel="self"/>
   <link href="http://guod08.github.io/me//"/>
-  <updated>2013-12-02T11:37:32+08:00</updated>
+  <updated>2013-12-02T11:43:41+08:00</updated>
   <id>http://guod08.github.io/me//</id>
   <author>
     <name><![CDATA[Dong Guo]]></name>
@@ -39,7 +39,7 @@ which is claimed won the competition of most accurate and scalable CTR predictor
 
 <p>Firstly, following is the factor graph of ad predictor.</p>
 
-<p><img class="left" src="/images/personal/research/ep/ep_step1.gif"></p>
+<p><img class="left" src="/images/personal/research/ep/ep_factor_definition.png"></p>
 ]]></content>
   </entry>
   
