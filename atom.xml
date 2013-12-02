@@ -4,7 +4,7 @@
   <title><![CDATA[Dong's Blog]]></title>
   <link href="http://guod08.github.io/me//atom.xml" rel="self"/>
   <link href="http://guod08.github.io/me//"/>
-  <updated>2013-12-02T23:52:22+08:00</updated>
+  <updated>2013-12-02T23:53:03+08:00</updated>
   <id>http://guod08.github.io/me//</id>
   <author>
     <name><![CDATA[Dong Guo]]></name>
@@ -21,8 +21,8 @@
     <content type="html"><![CDATA[<p>Everybody knows Gaussian distribution, and Gaussian is very popular in Bayesian world and even in our life.
 This article summaries typical operation of Gaussian, and something about Truncated Guassian distribution.</p>
 
-<p><img class="left" src="http://guod08.github.io/me//images/personal/research/gaussian/gaussian_pdf.png" width="500" title="'Gaussian pdf'" >
-<img class="right" src="http://guod08.github.io/me//images/personal/research/gaussian/gaussian_cdf.png" width="500" title="'Gaussian cdf'" ></p>
+<p><img class="left" src="http://guod08.github.io/me//images/personal/research/gaussian/gaussian_pdf.png" width="350" title="'Gaussian pdf'" >
+<img class="right" src="http://guod08.github.io/me//images/personal/research/gaussian/gaussian_cdf.png" width="350" title="'Gaussian cdf'" ></p>
 
 <p><img src="http://guod08.github.io/me//images/personal/research/gaussian/gaussian_1.png" width="1200"></p>
 
