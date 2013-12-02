@@ -4,7 +4,7 @@
   <title><![CDATA[Dong's Blog]]></title>
   <link href="http://guod08.github.io/me//atom.xml" rel="self"/>
   <link href="http://guod08.github.io/me//"/>
-  <updated>2013-12-03T00:29:39+08:00</updated>
+  <updated>2013-12-03T00:33:13+08:00</updated>
   <id>http://guod08.github.io/me//</id>
   <author>
     <name><![CDATA[Dong Guo]]></name>
@@ -24,8 +24,8 @@ This article summaries typical operation of Gaussian, and something about Trunca
 <h3>pdf(probability density function) and cdf(cumulative density function) of Gaussian distribution </h3>
 
 
-<p><img class="left" src="http://guod08.github.io/me//images/personal/research/gaussian/gaussian_pdf.png" width="400" title="'Gaussian pdf'" >
-<img class="right" src="http://guod08.github.io/me//images/personal/research/gaussian/gaussian_cdf.png" width="400" title="'Gaussian cdf'" ></p>
+<p><img class="left" src="http://guod08.github.io/me//images/personal/research/gaussian/gaussian_pdf.png" width="350" title="'Gaussian pdf'" >
+<img class="right" src="http://guod08.github.io/me//images/personal/research/gaussian/gaussian_cdf.png" width="350" title="'Gaussian cdf'" ></p>
 
 <p><img src="http://guod08.github.io/me//images/personal/research/gaussian/gaussian_1.png" width="1200"></p>
 
@@ -56,11 +56,8 @@ See <a href="http://www.tina-vision.net/docs/memos/2003-003.pdf">here</a> for th
 <h2> Truncated Gaussian </h2>
 
 
-<h3>Gaussian * Gaussian (x=x1*x2) </h3>
-
-
-<p><img class="left" src="http://guod08.github.io/me//images/personal/research/gaussian/tg_pdf.png" width="400" title="'Gaussian pdf'" >
-<img class="right" src="http://guod08.github.io/me//images/personal/research/gaussian/tg_cdf.png" width="400" title="'Gaussian cdf'" ></p>
+<p><img class="left" src="http://guod08.github.io/me//images/personal/research/gaussian/tg_pdf.png" width="350" title="'Gaussian pdf'" >
+<img class="right" src="http://guod08.github.io/me//images/personal/research/gaussian/tg_cdf.png" width="350" title="'Gaussian cdf'" ></p>
 
 <p>Truncated Gaussian distribution is very simple: it&rsquo;s just conditional Gaussian distribution.
 Suppose variable x belongs to Gaussian distribution, then x conditional on a&lt;x<b has a truncated Gaussian distribution.
