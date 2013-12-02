@@ -4,7 +4,7 @@
   <title><![CDATA[Category: research | Dong's Blog]]></title>
   <link href="http://guod08.github.io/me//blog/categories/research/atom.xml" rel="self"/>
   <link href="http://guod08.github.io/me//"/>
-  <updated>2013-12-02T13:28:34+08:00</updated>
+  <updated>2013-12-02T13:47:45+08:00</updated>
   <id>http://guod08.github.io/me//</id>
   <author>
     <name><![CDATA[Dong Guo]]></name>
@@ -33,23 +33,17 @@ Btw: one shortage of this model is it&rsquo;s not sparse, which may be a big iss
 <img class="left" src="/images/personal/research/ep/adPredictor_byhand.jpeg" width="1200">
 <img class="left" src="/images/personal/research/ep/ep_factor_definition.png" width="1200"></p>
 
-<p>Step 1
-<img class="left" src="/images/personal/research/ep/ep_step1.png" width="1200"></p>
+<p><img class="left" src="/images/personal/research/ep/ep_step1.png" width="1200"></p>
 
-<p>Step 2
-<img class="left" src="/images/personal/research/ep/ep_step2.png" width="1200"></p>
+<p><img class="left" src="/images/personal/research/ep/ep_step2.png" width="1200"></p>
 
-<p>Step 3
-<img class="left" src="/images/personal/research/ep/ep_step3.png" width="1200"></p>
+<p><img class="left" src="/images/personal/research/ep/ep_step3.png" width="1200"></p>
 
-<p>Step 4
-<img class="left" src="/images/personal/research/ep/ep_step4.png" width="1200"></p>
+<p><img class="left" src="/images/personal/research/ep/ep_step4.png" width="1200"></p>
 
-<p>Step 5
-<img class="left" src="/images/personal/research/ep/ep_step5.png" width="1200"></p>
+<p><img class="left" src="/images/personal/research/ep/ep_step5.png" width="1200"></p>
 
-<p>Step 6
-<img class="left" src="/images/personal/research/ep/ep_step6.png" width="1200"></p>
+<p><img class="left" src="/images/personal/research/ep/ep_step6.png" width="1200"></p>
 
 <p>Step 7
 <img class="left" src="/images/personal/research/ep/ep_step7_1.png" width="1200"></p>
@@ -60,23 +54,19 @@ Btw: one shortage of this model is it&rsquo;s not sparse, which may be a big iss
 
 <p><img class="left" src="/images/personal/research/ep/ep_step7_4.png" width="1200"></p>
 
-<p>Step 8
-<img class="left" src="/images/personal/research/ep/ep_step8.png" width="1200"></p>
+<p><img class="left" src="/images/personal/research/ep/ep_step8.png" width="1200"></p>
 
-<p>Step 9
-<img class="left" src="/images/personal/research/ep/ep_step9.png" width="1200"></p>
+<p><img class="left" src="/images/personal/research/ep/ep_step9.png" width="1200"></p>
 
-<p>Step 10
-<img class="left" src="/images/personal/research/ep/ep_step10.png" width="1200"></p>
+<p><img class="left" src="/images/personal/research/ep/ep_step10.png" width="1200"></p>
 
-<p>Step 11
-<img class="left" src="/images/personal/research/ep/ep_step11.png" width="1200"></p>
+<p><img class="left" src="/images/personal/research/ep/ep_step11.png" width="1200"></p>
 
-<p>Step 12
-<img class="left" src="/images/personal/research/ep/ep_step12.png" width="1200"></p>
+<p><img class="left" src="/images/personal/research/ep/ep_step12.png" width="1200"></p>
 
-<p>Step 13
-<img class="left" src="/images/personal/research/ep/ep_step13.png" width="1200"></p>
+<p><img class="left" src="/images/personal/research/ep/ep_step13.png" width="1200"></p>
+
+<p>For each sample, we can use the formula of step 13 to update the posterior parameter of W, which is very easy to be implemented.</p>
 ]]></content>
   </entry>
   
