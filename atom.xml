@@ -4,7 +4,7 @@
   <title><![CDATA[Dong's Blog]]></title>
   <link href="http://guod08.github.io/me//atom.xml" rel="self"/>
   <link href="http://guod08.github.io/me//"/>
-  <updated>2013-12-02T09:56:25+08:00</updated>
+  <updated>2013-12-02T09:57:28+08:00</updated>
   <id>http://guod08.github.io/me//</id>
   <author>
     <name><![CDATA[Dong Guo]]></name>
@@ -32,7 +32,7 @@ Btw: one shortage of this model is it&rsquo;s not sparse, which may be a big iss
 <p>article shows how to inference this model step-by-step.</p>
 
 
-<p>Error processing input, expected syntax: {% img [class name(s)] [http[s]:/]/path/to/image [width [height]] [title text | &ldquo;title text&rdquo; [&ldquo;alt text&rdquo;]] %}
+<p><img src="./sample.gif">
 <img class="left" src="http://placekitten.com/320/250" title="Place Kitten #2" ></p>
 ]]></content>
   </entry>
