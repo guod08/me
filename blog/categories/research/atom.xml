@@ -4,7 +4,7 @@
   <title><![CDATA[Category: research | Dong's Blog]]></title>
   <link href="http://guod08.github.io/me//blog/categories/research/atom.xml" rel="self"/>
   <link href="http://guod08.github.io/me//"/>
-  <updated>2013-12-02T11:51:26+08:00</updated>
+  <updated>2013-12-02T12:13:18+08:00</updated>
   <id>http://guod08.github.io/me//</id>
   <author>
     <name><![CDATA[Dong Guo]]></name>
@@ -37,9 +37,32 @@ which is claimed won the competition of most accurate and scalable CTR predictor
 
 <p>This article shows how to inference this model(let&rsquo;s call it Ad predictor) step-by-step.</p>
 
-<p>Firstly, following is the factor graph of ad predictor.</p>
+<p>Firstly, following is the factor graph of ad predictor.
+<img class="left" src="/images/personal/research/ep/ep_factor_definition.png"></p>
 
-<p><img class="left" src="/images/personal/research/ep/ep_factor_definition.png"></p>
+<p>Step 1
+<img class="left" src="/images/personal/research/ep/ep_step1.png"></p>
+
+<p>Step 2
+<img class="left" src="/images/personal/research/ep/ep_step2.png"></p>
+
+<p>Step 3
+<img class="left" src="/images/personal/research/ep/ep_step3.png"></p>
+
+<p>Step 4
+<img class="left" src="/images/personal/research/ep/ep_step4.png"></p>
+
+<p>Step 5
+<img class="left" src="/images/personal/research/ep/ep_step5.png"></p>
+
+<p>Step 6
+<img class="left" src="/images/personal/research/ep/ep_step6.png">
+<img class="left" src="/images/personal/research/ep/ep_step7_1.png">
+<img class="left" src="/images/personal/research/ep/ep_step7_2.png">
+<img class="left" src="/images/personal/research/ep/ep_step7_3.png">
+<img class="left" src="/images/personal/research/ep/ep_step7_4.png">
+<img class="left" src="/images/personal/research/ep/ep_step8.png">
+<img class="left" src="/images/personal/research/ep/ep_step9.png"></p>
 ]]></content>
   </entry>
   
