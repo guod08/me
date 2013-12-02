@@ -4,7 +4,7 @@
   <title><![CDATA[Dong's Blog]]></title>
   <link href="http://guod08.github.io/me//atom.xml" rel="self"/>
   <link href="http://guod08.github.io/me//"/>
-  <updated>2013-12-02T17:48:50+08:00</updated>
+  <updated>2013-12-02T18:14:57+08:00</updated>
   <id>http://guod08.github.io/me//</id>
   <author>
     <name><![CDATA[Dong Guo]]></name>
@@ -29,7 +29,7 @@ This article shows how to inference this model(let&rsquo;s call it Ad predictor)
 And both training and prediction is light-weight and fast.
 Btw: one shortage of this model is it&rsquo;s not sparse, which may be a big issue when applied on big dataset with huge amount of features.</p>
 
-<h2>Inference with Expectation Propagation technique step by step</h2>
+<h2>Inference using Expectation Propagation step by step</h2>
 
 
 <p>Firstly, following is the factor graph of ad predictor.
