@@ -4,7 +4,7 @@
   <title><![CDATA[Category: research | Dong's Blog]]></title>
   <link href="http://guod08.github.io/me//blog/categories/research/atom.xml" rel="self"/>
   <link href="http://guod08.github.io/me//"/>
-  <updated>2013-12-02T11:43:41+08:00</updated>
+  <updated>2013-12-02T11:51:26+08:00</updated>
   <id>http://guod08.github.io/me//</id>
   <author>
     <name><![CDATA[Dong Guo]]></name>
@@ -23,16 +23,16 @@ which is claimed won the competition of most accurate and scalable CTR predictor
 
 <p>I like it because it&rsquo;s totally based on Bayesian, and Bayesian is beautiful.</p>
 
-<p>1). we can get one distribution of prediction, instead of one single 'probability'. This feature is valuable for 'exploration and exploitation' issue.</p>
+<br>1). we can get one distribution of prediction, instead of one single 'probability'. This feature is valuable for 'exploration and exploitation' issue.</br>
 
 
-<p>2). Also because it's based on Bayesian, this model naturally support online learning; </p>
+<br>2). Also because it's based on Bayesian, this model naturally support online learning; </br>
 
 
-<p>3). It's fast and has good enough prediction accuracy;</p>
+<br>3). It's fast and has good enough prediction accuracy;</br>
 
 
-<p>Btw: one shortage of this model is it's not sparse, which may be a big issue when applied on big dataset with huge amount of features.</p>
+<br>Btw: one shortage of this model is it's not sparse, which may be a big issue when applied on big dataset with huge amount of features.</br>
 
 
 <p>This article shows how to inference this model(let&rsquo;s call it Ad predictor) step-by-step.</p>
