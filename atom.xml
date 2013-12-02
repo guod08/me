@@ -4,7 +4,7 @@
   <title><![CDATA[Dong's Blog]]></title>
   <link href="http://guod08.github.io/me//atom.xml" rel="self"/>
   <link href="http://guod08.github.io/me//"/>
-  <updated>2013-12-02T22:02:43+08:00</updated>
+  <updated>2013-12-02T22:05:22+08:00</updated>
   <id>http://guod08.github.io/me//</id>
   <author>
     <name><![CDATA[Dong Guo]]></name>
@@ -31,7 +31,14 @@
 This article summaries typical operation of Gaussian, and something about Truncated Guassian distribution.</p>
 
 <p><img class="left" src="http://guod08.github.io/me//images/personal/research/gaussian/guassian_pdf.png" width="500" title="'Gaussian pdf'" >
-:<img class="left" src="http://guod08.github.io/me//images/personal/research/gaussian/guassian_cdf.png" width="500" title="'Gaussian cdf'" ></p>
+<img class="left" src="http://guod08.github.io/me//images/personal/research/gaussian/guassian_cdf.png" width="500" title="'Gaussian cdf'" ></p>
+
+<p><img src="http://guod08.github.io/me//images/personal/research/gaussian/gaussian_1.png" width="1200"></p>
+
+<p><img src="http://guod08.github.io/me//images/personal/research/gaussian/gaussian_plus.png" width="1200">
+<img src="http://guod08.github.io/me//images/personal/research/gaussian/gaussian_multiple.png" width="1200">
+<img src="http://guod08.github.io/me//images/personal/research/gaussian/gaussian_divide.png" width="1200">
+<img src="http://guod08.github.io/me//images/personal/research/gaussian/gaussian_integral.png" width="1200"></p>
 ]]></content>
   </entry>
   
