@@ -4,7 +4,7 @@
   <title><![CDATA[Category: research | Dong's Blog]]></title>
   <link href="http://guod08.github.io/me//blog/categories/research/atom.xml" rel="self"/>
   <link href="http://guod08.github.io/me//"/>
-  <updated>2013-12-02T10:11:47+08:00</updated>
+  <updated>2013-12-02T11:13:31+08:00</updated>
   <id>http://guod08.github.io/me//</id>
   <author>
     <name><![CDATA[Dong Guo]]></name>
@@ -21,15 +21,25 @@
     <content type="html"><![CDATA[<p>Microsoft published a paper in ICML 2009 named &lsquo;Web-Scale Bayesian Click-Through Rate Prediction for Sponsored Search Advertising in Microsoft&rsquo;s Bing Search Engine&rsquo;,
 which is claimed won the competition of most accurate and scalable CTR predictor across MS.</p>
 
-<p>I like it because it&rsquo;s totally based on Bayesian, and Bayesian is beautiful.
-1). we can get one distribution of prediction, instead of one single &lsquo;probability&rsquo;. This feature is valuable for &lsquo;exploration and exploitation&rsquo; issue.
-2). Also because it&rsquo;s based on Bayesian, this model naturally support online learning;
-3). It&rsquo;s fast and has good enough prediction accuracy;
-Btw: one shortage of this model is it&rsquo;s not sparse, which may be a big issue when applied on big dataset with huge amount of features.</p>
+<p>I like it because it&rsquo;s totally based on Bayesian, and Bayesian is beautiful.</p>
 
-<p>This article shows how to inference this model step-by-step.</p>
+<p>1). we can get one distribution of prediction, instead of one single 'probability'. This feature is valuable for 'exploration and exploitation' issue.</p>
 
-<p><img class="left <a" src="href="http://www.flickr.com/photos/110322175@N05/11163871473/">http://www.flickr.com/photos/110322175@N05/11163871473/</a>">
+
+<p>2). Also because it's based on Bayesian, this model naturally support online learning; </p>
+
+
+<p>3). It's fast and has good enough prediction accuracy;</p>
+
+
+<p>Btw: one shortage of this model is it's not sparse, which may be a big issue when applied on big dataset with huge amount of features.</p>
+
+
+<p>This article shows how to inference this model(let&rsquo;s call it Ad predictor) step-by-step.</p>
+
+<p>Firstly, following is the factor graph of ad predictor.</p>
+
+<p><img class="left" src="/images/sample.gif">
 <img class="left <a" src="href="http://placekitten.com/320/250">http://placekitten.com/320/250</a>" title="Place Kitten #2" ></p>
 ]]></content>
   </entry>
