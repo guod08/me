@@ -4,7 +4,7 @@
   <title><![CDATA[Category: research | Dong's Blog]]></title>
   <link href="http://guod08.github.io/me//blog/categories/research/atom.xml" rel="self"/>
   <link href="http://guod08.github.io/me//"/>
-  <updated>2013-12-02T13:12:59+08:00</updated>
+  <updated>2013-12-02T13:28:34+08:00</updated>
   <id>http://guod08.github.io/me//</id>
   <author>
     <name><![CDATA[Dong Guo]]></name>
@@ -21,23 +21,16 @@
     <content type="html"><![CDATA[<p>Microsoft published a paper in ICML 2009 named &lsquo;Web-Scale Bayesian Click-Through Rate Prediction for Sponsored Search Advertising in Microsoft&rsquo;s Bing Search Engine&rsquo;,
 which is claimed won the competition of most accurate and scalable CTR predictor across MS.</p>
 
-<p>I like it because it&rsquo;s totally based on Bayesian, and Bayesian is beautiful.</p>
-
-<br>1). we can get one distribution of prediction, instead of one single 'probability'. This feature is valuable for 'exploration and exploitation' issue.</br>
-
-
-<br>2). Also because it's based on Bayesian, this model naturally support online learning; </br>
-
-
-<br>3). It's fast and has good enough prediction accuracy;</br>
-
-
-<br>Btw: one shortage of this model is it's not sparse, which may be a big issue when applied on big dataset with huge amount of features.</br>
-
+<p>I like it because it&rsquo;s totally based on Bayesian, and Bayesian is beautiful.
+1). we can get one distribution of prediction, instead of one single &lsquo;probability&rsquo;. This feature is valuable for &lsquo;exploration and exploitation&rsquo; issue.
+2). Also because it&rsquo;s based on Bayesian, this model naturally support online learning;
+3). It&rsquo;s fast and has good enough prediction accuracy;
+Btw: one shortage of this model is it&rsquo;s not sparse, which may be a big issue when applied on big dataset with huge amount of features.</p>
 
 <p>This article shows how to inference this model(let&rsquo;s call it Ad predictor) step-by-step.</p>
 
 <p>Firstly, following is the factor graph of ad predictor.
+<img class="left" src="/images/personal/research/ep/adPredictor_byhand.jpeg" width="1200">
 <img class="left" src="/images/personal/research/ep/ep_factor_definition.png" width="1200"></p>
 
 <p>Step 1
