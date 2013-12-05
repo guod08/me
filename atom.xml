@@ -4,7 +4,7 @@
   <title><![CDATA[Dong's Blog]]></title>
   <link href="http://guod08.github.io/me//atom.xml" rel="self"/>
   <link href="http://guod08.github.io/me//"/>
-  <updated>2013-12-05T11:06:26+08:00</updated>
+  <updated>2013-12-05T11:16:31+08:00</updated>
   <id>http://guod08.github.io/me//</id>
   <author>
     <name><![CDATA[Dong Guo]]></name>
@@ -64,7 +64,7 @@ See <a href="http://www.tina-vision.net/docs/memos/2003-003.pdf">[here]</a> for 
 
 <p>Truncated Gaussian distribution is very simple: it&rsquo;s just one conditional (Gaussian) distribution.
 Suppose variable x belongs to Gaussian distribution, then x conditional on x belongs to (a, b) has a truncated Gaussian distribution.
-<img src="http://guod08.github.io/me//images/personal/research/gaussian/tg_pdf.png" width="1200"></p>
+<img src="http://guod08.github.io/me//images/personal/research/gaussian/tg_def.png" width="1200"></p>
 
 <h3>Calculate expectation of Truncated Gaussian </h3>
 
