@@ -4,7 +4,7 @@
   <title><![CDATA[Dong's Blog]]></title>
   <link href="http://guod08.github.io/me//atom.xml" rel="self"/>
   <link href="http://guod08.github.io/me//"/>
-  <updated>2013-12-15T00:38:42+08:00</updated>
+  <updated>2013-12-15T01:01:14+08:00</updated>
   <id>http://guod08.github.io/me//</id>
   <author>
     <name><![CDATA[Dong Guo]]></name>
@@ -18,9 +18,7 @@
     <link href="http://guod08.github.io/me//blog/2013/12/15/classification-models/"/>
     <updated>2013-12-15T00:35:00+08:00</updated>
     <id>http://guod08.github.io/me//blog/2013/12/15/classification-models</id>
-    <content type="html"><![CDATA[<p>You may have tried many models for classification task. Such as</p>
-
-<h2> Typcial classifiers comparision </h2>
+    <content type="html"><![CDATA[<h3> Typcial classifiers comparision </h3>
 
 
 <p><img class="left" src="http://guod08.github.io/me//images/personal/research/classifiers/classifiers_compare.png" width="800"></p>
