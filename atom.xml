@@ -4,7 +4,7 @@
   <title><![CDATA[Dong's Blog]]></title>
   <link href="http://guod08.github.io/me//atom.xml" rel="self"/>
   <link href="http://guod08.github.io/me//"/>
-  <updated>2013-12-15T00:30:44+08:00</updated>
+  <updated>2013-12-15T00:36:58+08:00</updated>
   <id>http://guod08.github.io/me//</id>
   <author>
     <name><![CDATA[Dong Guo]]></name>
@@ -14,23 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Classification Models]]></title>
-    <link href="http://guod08.github.io/me//blog/2013/12/14/classification-models/"/>
-    <updated>2013-12-14T00:00:00+08:00</updated>
-    <id>http://guod08.github.io/me//blog/2013/12/14/classification-models</id>
-    <content type="html"><![CDATA[<ul>
-<li>&ndash;
-layout: post
-title: &ldquo;Some recommended linear models for classification&rdquo;
-date: 2013-12-14 22:59
-comments: true
-categories: research</li>
-</ul>
-
-
-<hr />
-
-<p>You may have tried many models for classification task. Such as</p>
+    <title type="html"><![CDATA[classification models]]></title>
+    <link href="http://guod08.github.io/me//blog/2013/12/15/classification-models/"/>
+    <updated>2013-12-15T00:35:00+08:00</updated>
+    <id>http://guod08.github.io/me//blog/2013/12/15/classification-models</id>
+    <content type="html"><![CDATA[<p>You may have tried many models for classification task. Such as</p>
 
 <h2> Typcial classifiers comparision </h2>
 
