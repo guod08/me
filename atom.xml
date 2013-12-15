@@ -4,7 +4,7 @@
   <title><![CDATA[Dong's Blog]]></title>
   <link href="http://guod08.github.io/me//atom.xml" rel="self"/>
   <link href="http://guod08.github.io/me//"/>
-  <updated>2013-12-15T23:58:43+08:00</updated>
+  <updated>2013-12-16T00:07:53+08:00</updated>
   <id>http://guod08.github.io/me//</id>
   <author>
     <name><![CDATA[Dong Guo]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Some Machine Learning Slides From Internal Machine Learning Course In Hulu]]></title>
+    <link href="http://guod08.github.io/me//blog/2013/12/16/some-machine-learning-slides-from-internal-machine-learning-course-in-hulu/"/>
+    <updated>2013-12-16T00:00:00+08:00</updated>
+    <id>http://guod08.github.io/me//blog/2013/12/16/some-machine-learning-slides-from-internal-machine-learning-course-in-hulu</id>
+    <content type="html"><![CDATA[<p><a href="http://www.slideshare.net/guo_dong/machine-learning-introduction">Machine Learning Introduction</a></p>
+
+<p><a href="http://www.slideshare.net/guo_dong/feature-selection">Feature selection</a></p>
+
+<p><a href="http://www.slideshare.net/guo_dong/logistic-regressionpptx">Logistic regression</a></p>
+
+<p><a href="http://www.slideshare.net/guo_dong/additive-model-and-boosting-tree">Additive Model and boosting tree</a></p>
+
+<p><a herf="http://www.slideshare.net/guo_dong/expectation-propagation">Expectation propagation</a>: a popular bayesian inference technique proposed by Thomas Minka.
+You may see it a lot in graph model inference.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[classification models]]></title>
