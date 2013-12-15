@@ -4,7 +4,7 @@
   <title><![CDATA[Dong's Blog]]></title>
   <link href="http://guod08.github.io/me//atom.xml" rel="self"/>
   <link href="http://guod08.github.io/me//"/>
-  <updated>2013-12-15T01:01:14+08:00</updated>
+  <updated>2013-12-15T22:41:42+08:00</updated>
   <id>http://guod08.github.io/me//</id>
   <author>
     <name><![CDATA[Dong Guo]]></name>
@@ -18,10 +18,32 @@
     <link href="http://guod08.github.io/me//blog/2013/12/15/classification-models/"/>
     <updated>2013-12-15T00:35:00+08:00</updated>
     <id>http://guod08.github.io/me//blog/2013/12/15/classification-models</id>
-    <content type="html"><![CDATA[<h3> Typcial classifiers comparision </h3>
+    <content type="html"><![CDATA[<p>During my past 3 years in career, following classifiers are often used for classification tasks.</p>
+
+<h3> Typcial classifiers comparision </h3>
 
 
 <p><img class="left" src="http://guod08.github.io/me//images/personal/research/classifiers/classifiers_compare.png" width="800"></p>
+
+<h3>Decision Tree </h3>
+
+
+<p>Decision Tree is not a start-of-art model for classification or regression, and when there are huge features(say millions) it will take a long time for training.
+But it may perform very well when the number of distinct features are limited, and the classification/regression task is obviously non-linear.</p>
+
+<p>A typical scenario is multi-model fusion: you have trained multiple models for single task, and you want to generate the final prediction result using all these models.
+Based on my past experiments, Decision Tree can out perform linear model(linear regression, logistic regression and so on) on many datasets.</p>
+
+<h3>RDT, random forest,</h3>
+
+
+<p>All of these 3 models are ensemble learning method for classification/regression that operate by constructing multiple Decision Tree at training time.
+For RDT(random decision tree), only part of total samples are used to training each tree. And all features are considered for splitting.</p>
+
+<p>Similar with RDT, random forest also use part of total sampels to construct each tree, but it also only use subset of features/dimisions for splitting.
+So random forest introduces more &lsquo;random&rsquo; factors for training, and it may perform better when there are more noises in training set.</p>
+
+<p>RBDT(random</p>
 ]]></content>
   </entry>
   
