@@ -4,7 +4,7 @@
   <title><![CDATA[Dong's Blog]]></title>
   <link href="http://guod08.github.io/me//atom.xml" rel="self"/>
   <link href="http://guod08.github.io/me//"/>
-  <updated>2013-12-15T23:47:31+08:00</updated>
+  <updated>2013-12-15T23:58:43+08:00</updated>
   <id>http://guod08.github.io/me//</id>
   <author>
     <name><![CDATA[Dong Guo]]></name>
@@ -55,20 +55,28 @@ There are multiple different implementation for logistic regression, and here ar
 <p>1). Logistic regression optimized by SGD.</p>
 
 <p>2). OWLQN: It was proposed by Microsoft in paper <a href="http://research.microsoft.com/en-us/downloads/b1eb1016-1738-4bd5-83a9-370c9d498a03/">
-&lsquo;Orthant-Wise Limited-memory Quasi-Newton Optimizer for L1-regularized Objectives&rsquo;</a> of ICML 2007. You can also find the source code and executable runner via this link.
-The version is optimized by a method which is similar with L-BFGS, but can works with L1 regularizer.
-I have to say it&rsquo;s a very implementation: firstly, it&rsquo;s fast, especially when the dataset is huge; secondly, it can generate start-of-art prediction results on most dataset;
-thirdly, it&rsquo;s stable and there are few parameters need to be tried. Actaully, I find only regularization parameters can impact the performance obviously; last but mot the least,
-it&rsquo;s sparse, which is very important for big dataset and real product. (Of course, sparse is due to L1 regularizer, instead of the specific optimization method)
-So I recommend you try this implementation can compare other implmentation of LR in your problems. One disadvantage is it&rsquo;s more challenge to implement it by yourself,
-so you need spend some time to make it support incremental update or online learning.</p>
+&lsquo;Orthant-Wise Limited-memory Quasi-Newton Optimizer for L1-regularized Objectives&rsquo;</a> of ICML 2007. You can also find the source code and executable runner via this link.</p>
+
+<p>This model is optimized by a method which is similar with L-BFGS, but can works with L1 regularizer.
+I recommend you try this model and compare with other models you are using in your dataset.
+Here are four reasons:
+a. It&rsquo;s fast, especially when the dataset is huge;</p>
+
+<ol type="a">
+<li><p>It can generate start-of-art prediction results on most dataset;</p></li>
+<li><p>It&rsquo;s stable and there are few parameters need to be tried. Actaully, I find only regularization parameters can impact the performance obviously;</p></li>
+<li><p>It&rsquo;s sparse, which is very important for big dataset and real product. (Of course, sparse is due to L1 regularizer, instead of the specific optimization method)</p></li>
+</ol>
+
+
+<p>One disadvantage is it&rsquo;s more challenge to implement it by yourself, so you need spend some time to make it support incremental update or online learning.</p>
 
 <p>3). FTRL: It was proposed by Google via paper <a href="http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/41159.pdf">
 Ad Click Prediction: a View from the Trenches</a> in 2013. I tried on my dataset, and this implementation can generate similar prediction performance with OWLQN.
 It&rsquo;s quicker than OWLQN for training, and it&rsquo;s also sparse. One advantage is it&rsquo;s very easy to implement, and it support increamental update naturally.
 One pain point for me is this model has 3-4 parameters need to be chosen, and most of them impact the prediction performance obviously.</p>
 
-<p>4). Ad predictor: This model<a href="http://research.microsoft.com/pubs/122779/adpredictor%20icml%202010%20-%20final.pdf">paper</a> is also proposed by Microsoft in ICML 2009.
+<p>4). Ad predictor: This <a href="http://research.microsoft.com/pubs/122779/adpredictor%20icml%202010%20-%20final.pdf">paper</a> is also proposed by Microsoft in ICML 2009.
 One biggest different with upper 3 implementation is it&rsquo;s based on bayesian, so it&rsquo;s generative model.
 Ad predictor is used to predict CTR of sponsor search ads of Bing, and on my dataset, it could also achieve comparable prediction performance with OWQLN and FTRL.
 Ad predictor model the weight of each feature with a gaussian distribution, so it natually supports online learning.
